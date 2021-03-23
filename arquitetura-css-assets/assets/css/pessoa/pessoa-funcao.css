@@ -1,0 +1,6 @@
+/* text-transform: lowercase = texcto em minusculo */
+.pessoa__funcao {
+    text-transform: lowercase;
+    color: #595959;
+    font-size: 1.25rem;
+}
