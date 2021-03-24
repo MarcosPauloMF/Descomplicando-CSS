@@ -11,3 +11,17 @@ header
     padding-left: 2rem;
     padding-right: 2rem;
 }
+
+@media sceen and (min-width: 0) {
+    .cabecalho {
+        padding: 0 1rem;
+        justify-content: center;
+    }
+}
+
+@media sceen and (min-width: 768px) {
+    .cabecalho {
+        padding: 0 5rem;
+        justify-content: space-between;
+    }
+}
